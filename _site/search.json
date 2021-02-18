@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "About Me:",
+      "author": [],
+      "contents": "\r\n\r\nBio\r\nI am a PhD Candidate in the Lester Lab and the Department of Geography at Florida State University. I study the biogeography and socio-ecological linkages of marine ecosystems within the context of global climate change and other human stressors. I am most passionate about research questions that can inform effective marine conservation and resource management under increasing anthropogenic pressures. While my past research and dissertation work have primarily focused on benthic ecosystems in the Northwest Atlantic and seagrass ecosystems in the Gulf of Mexico, I am broadly interested in research questions and problems that could be generalized and applied to other coastal and marine systems. My approach to research combines a mix of data science in R, GIS & spatial modeling, field observational studies, and laboratory analyses and incorporates both interdisciplinary collaboration and the mentoring of undergraduate trainees.\r\nResearch Themes\r\nBiogeography & Macroecology\r\nEcosystem Functions & Services\r\nClimate Change\r\nMarine Conservation Science\r\nSpatial Planning\r\nEducation:\r\nPhD Candidate, Geography, Department of Geography, Florida State University (2017-Present)\r\nDual M.Sc., Marine Biology & Marine Policy, School of Marine Science, University of Maine (2014)\r\nB.Sc., Marine Science, School of Marine Sciences, University of Maine (2010)\r\nContact Information:\r\nJennifer McHenry\r\n113 Collegiate Loop\r\nBellamy Building, Room 307\r\nPO Box 3062190\r\nTallahassee FL 32306-2190\r\njamchenry@fsu.edu\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-18T17:12:40-05:00"
+    },
+    {
+      "path": "pubs.html",
+      "title": "Selected Publications",
+      "author": [],
+      "contents": "\r\nLester, S. E., Dubel, A.K., Hernan, G., McHenry, J., & A. Rassweiler. Applying spatial planning principles to marine ecosystem restoration. Frontiers in Marine Science. 2020.\r\nMcHenry, J., Welch H., Lester S.E., & V. Saba. Projecting marine species range shifts from ocean temperatures masks climate vulnerability. Global Change Biology. 2019.\r\nSiegel, K. J., Cabral, R. B., McHenry, J., Ojea, E., Owashi, B., & S.E. Lester, S. E. Sovereign states in the Caribbean have lower social-ecological vulnerability to coral bleaching than overseas territories. Proceedings of the Royal Society B. 2019.\r\nWelch H, & J. McHenry. Planning for dynamic process: An assemblage‐level surrogate strategy for species seasonal movement pathways. Aquatic Conservation: Marine and Freshwater Ecosystems. 2018.\r\nLester, S. E., E.O. Ruff, K. Mayall, J. McHenry. Exploring stakeholder perceptions of marine management in Bermuda. Marine. Policy. 2017\r\nMcHenry, J., R.S. Steneck, & D.C. Brady. Abiotic proxies for predictive mapping of near‐shore benthic assemblages: Implications for marine spatial planning. Ecological Applications. 2017.\r\nFor a full list of my publications see my Google Scholar and ResearchGate pages. If any are inaccessible online, feel free to contact me about PDFs versions of my publications.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-18T17:12:40-05:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\r\nI study the biogeographical patterns and ecological functions that underpin marine ecosystem services, in the context of global climate change and other anthropogenic stressors.\r\nSpecies Ranges and Ocean Warming\r\nHold for a description\r\nFoundation Species, Biodiversity, and Sea-Level Rise\r\nHold for a description\r\nGeographic Variation in Ecosystem Services from Seagrasses\r\nHold for a description\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-18T17:12:41-05:00"
+    }
+  ],
+  "collections": []
+}
