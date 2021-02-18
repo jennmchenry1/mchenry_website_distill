@@ -3,6 +3,8 @@ title: "Jennifer McHenry"
 description: |
 output_dir: "_site"
 navbar:
+  logo:
+    image: photo.jpg
   right:
     - text: "About"
       href: index.html
@@ -14,5 +16,7 @@ navbar:
       href: https://github.com/jennmchenry1
     - icon: fa fa-twitter
       href: https://twitter.com/JennMcHenry
-output: distill::distill_article
+      
+output: 
+  distill::distill_article
 theme: "theme_jenn_mchenry.css"

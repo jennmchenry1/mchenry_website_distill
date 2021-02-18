@@ -13,8 +13,16 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](photo.jpg){width=50%} 
 
+
 ## Bio
-I am a PhD Candidate in the [**Lester Lab**](https://www.lester-lab.com) and the [**Department of Geography**](https://www.geography.fsu.edu) at Florida State University. I study the biogeography and socio-ecological linkages of marine ecosystems within the context of global climate change and other human stressors. I am most passionate about research questions that can inform effective marine conservation and resource management under increasing anthropogenic pressures. While my past research and dissertation work have primarily focused on benthic ecosystems in the Northwest Atlantic and seagrass ecosystems in the Gulf of Mexico, I am broadly interested in research questions and problems that could be generalized and applied to other coastal and marine systems.  My approach to research combines a mix of data science in R, GIS & spatial modeling, field observational studies, and laboratory analyses and incorporates both interdisciplinary collaboration and the mentoring of undergraduate trainees. 
+**Jennifer McHenry**
+
+**PhD Candidate**
+
+[**Lester Lab**](https://www.lester-lab.com)
+[**Department of Geography**](https://www.geography.fsu.edu) at Florida State University
+
+I am quantitative bigeographer studying the ecological patterns and processes that underpin ecosystem services in marine systems, within the context global climate change and other anthropogenic stressors. I am most passionate about research questions that can inform marine policy and management decisions when facing mounting environmental changes. My approach to research combines a mix of data science in R, GIS & spatial modeling, field observational studies, and laboratory analyses and incorporates both interdisciplinary collaboration and the mentoring of undergraduate trainees. Although much of my research takes place in benthic systems in NorthWest Atlantic and seagrass beds in the Gulf of Mexico, I prefer to answer questions that are broadly applicable to other systems and regions. 
 
 ## Research Themes
 
